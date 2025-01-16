@@ -24,6 +24,7 @@ Enabled bed callibration
 
 
 To do:
+
 Add caselight 24v leds feature using spare signal pin and transistor / or extruder 1 output
 Hotend PWM callibration (temp is overshooted)
 Callibrate fans PWM values (hotend fan is jittering)
