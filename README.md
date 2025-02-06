@@ -76,11 +76,11 @@ https://github.com/MarlinFirmware/MarlinBuilds/tree/release-2.1.2.5
 
 
 Changes
-🩹 Fix STM32 CPU serial UUID (#26715, #26727, #26737)
-🐛 Fix skipping of G2/G3 E-only moves
-🐛 Update and patch some pins files
-📝 Update some config links and defaults
-🔨 Update build and other supporting scripts
-🔨 Add mega1281 specific build environment
-🔨 Update to the newest Simulator
-🧑‍💻 Update to the newest Pins Debugging
+- 🩹 Fix STM32 CPU serial UUID (#26715, #26727, #26737)
+- 🐛 Fix skipping of G2/G3 E-only moves
+- 🐛 Update and patch some pins files
+- 📝 Update some config links and defaults
+- 🔨 Update build and other supporting scripts
+- 🔨 Add mega1281 specific build environment
+- 🔨 Update to the newest Simulator
+- 🧑‍💻 Update to the newest Pins Debugging
